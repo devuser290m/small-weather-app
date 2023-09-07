@@ -1,5 +1,5 @@
-The weather app project I've created is a dynamic and user-friendly application built using a combination of JavaScript, CSS, React, HTML, and Tailwind CSS. 
-This innovative app provides users with up-to-date weather information in an intuitive and visually appealing interface. 
+The weather app project I've created is a dynamic and user-friendly application built using a combination of JavaScript, CSS, React, HTML, bootstrap framework and Tailwind CSS. 
+This innovative app provides users with up-to-date weather information in an intuitive and visually appealing interface. (template design created with bootstrap framework)
 Leveraging the power of React, it offers seamless interactivity and real-time updates, ensuring that users can access accurate weather forecasts with ease. 
 The use of Tailwind CSS not only enhances the app's aesthetics but also guarantees a responsive design for various screen sizes, making it accessible to a wide range of users.
 Every information about time, date, temperature is updated live using Luxon library.
