@@ -7,5 +7,5 @@ While the weather app I created is visually appealing and user-friendly, it's im
 Since the API is provided at no cost, it may not always deliver the most precise and real-time data. 
 Consequently, this can impact the accuracy of the time and weather information for the places users search for within the app. 
 It's a common limitation with free APIs, as they may not have access to the same level of data and resources as premium services, which can result in delays or less accurate forecasts. 
-Nevertheless, the app still serves as a valuable tool for getting a general idea of the weather conditions in various locations, albeit with the understanding that it may not always provide pinpoint accuracy due to its 
+Nevertheless, the app still serves as a valuable tool for getting a general idea of the weather conditions in various locations, though with the understanding that it may not always provide pinpoint accuracy due to its 
 reliance on a free data source.
